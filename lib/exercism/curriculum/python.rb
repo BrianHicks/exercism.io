@@ -6,6 +6,7 @@ class Exercism
           point-mutations phone-number grade-school robot-name etl leap
           space-age grains gigasecond triangle scrabble-score roman-numerals
           binary prime-factors raindrops allergies atbash-cypher crypto-square
+          trinary
       )
     end
 
